@@ -1,0 +1,6 @@
+2026-02-23 17:52:56,969 - root - INFO - Starting BM25 test
+2026-02-23 17:52:56,971 - root - INFO - Retriever initialized
+2026-02-23 17:52:56,971 - root - INFO - Found 3 results
+2026-02-23 17:52:56,971 - root - INFO - Score: 1.61 | Title: API Timeout Errors
+2026-02-23 17:52:56,972 - root - INFO - Score: 1.56 | Title: Database Connection Failure
+2026-02-23 17:52:56,972 - root - INFO - Score: 0.00 | Title: High CPU Usage on Application Server
