@@ -1,0 +1,500 @@
+2026-02-18 11:19:51 | payment-service | ERROR | Disk space low
+2026-02-17 06:48:51 | web-server | ERROR | Disk space low
+2026-02-17 16:46:51 | web-server | INFO | Request completed successfully
+2026-02-21 20:42:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-23 15:09:51 | inventory-service | WARN | Disk space low
+2026-02-17 10:50:51 | api-gateway | INFO | Database connection timeout
+2026-02-18 21:13:51 | payment-service | INFO | Service restarted
+2026-02-20 10:00:51 | inventory-service | INFO | Disk space low
+2026-02-22 17:30:51 | payment-service | WARN | Slow query detected (5.2s)
+2026-02-21 08:10:51 | web-server | INFO | Service restarted
+2026-02-21 07:23:51 | payment-service | WARN | Request completed successfully
+2026-02-20 05:56:51 | payment-service | INFO | CPU usage at 95%
+2026-02-18 21:43:51 | payment-service | INFO | Disk space low
+2026-02-21 13:02:51 | web-server | INFO | Database connection timeout
+2026-02-17 04:29:51 | inventory-service | INFO | Request completed successfully
+2026-02-21 15:47:51 | inventory-service | INFO | Out of memory
+2026-02-19 05:46:51 | inventory-service | ERROR | Database connection timeout
+2026-02-20 00:05:51 | web-server | ERROR | CPU usage at 95%
+2026-02-22 20:09:51 | payment-service | INFO | Failed to connect to redis
+2026-02-22 03:44:51 | payment-service | INFO | Failed to connect to redis
+2026-02-17 12:13:51 | api-gateway | WARN | CPU usage at 95%
+2026-02-17 04:45:51 | web-server | INFO | Failed to connect to redis
+2026-02-20 14:44:51 | web-server | INFO | Failed to connect to redis
+2026-02-18 04:18:51 | web-server | INFO | Out of memory
+2026-02-18 22:46:51 | web-server | WARN | Out of memory
+2026-02-18 15:07:51 | web-server | WARN | Disk space low
+2026-02-18 19:43:51 | api-gateway | INFO | Database connection timeout
+2026-02-18 20:17:51 | inventory-service | INFO | Out of memory
+2026-02-16 19:14:51 | web-server | ERROR | Slow query detected (5.2s)
+2026-02-20 20:59:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-23 05:30:51 | web-server | WARN | Out of memory
+2026-02-18 12:01:51 | payment-service | INFO | CPU usage at 95%
+2026-02-20 07:52:51 | web-server | INFO | Failed to connect to redis
+2026-02-22 13:40:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-22 06:39:51 | web-server | INFO | Out of memory
+2026-02-21 13:16:51 | web-server | INFO | Request completed successfully
+2026-02-16 21:44:51 | api-gateway | INFO | Service restarted
+2026-02-23 03:04:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-22 12:43:51 | payment-service | INFO | Failed to connect to redis
+2026-02-19 21:16:51 | payment-service | WARN | Database connection timeout
+2026-02-22 10:29:51 | api-gateway | INFO | Out of memory
+2026-02-17 07:34:51 | inventory-service | INFO | Out of memory
+2026-02-18 03:04:51 | inventory-service | INFO | Out of memory
+2026-02-22 05:01:51 | payment-service | INFO | CPU usage at 95%
+2026-02-19 02:41:51 | web-server | INFO | Out of memory
+2026-02-19 18:18:51 | api-gateway | INFO | Disk space low
+2026-02-17 18:31:51 | payment-service | WARN | Slow query detected (5.2s)
+2026-02-21 18:15:51 | api-gateway | INFO | Database connection timeout
+2026-02-22 14:20:51 | web-server | INFO | Service restarted
+2026-02-19 13:54:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-17 13:46:51 | api-gateway | INFO | Disk space low
+2026-02-20 14:34:51 | payment-service | INFO | Out of memory
+2026-02-23 12:15:51 | payment-service | WARN | Database connection timeout
+2026-02-17 17:07:51 | payment-service | INFO | Failed to connect to redis
+2026-02-21 16:14:51 | inventory-service | INFO | Request completed successfully
+2026-02-22 20:55:51 | payment-service | INFO | Failed to connect to redis
+2026-02-23 13:10:51 | inventory-service | INFO | Slow query detected (5.2s)
+2026-02-21 11:15:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-19 13:33:51 | web-server | WARN | Database connection timeout
+2026-02-23 02:56:51 | api-gateway | WARN | Request completed successfully
+2026-02-19 04:40:51 | web-server | INFO | Service restarted
+2026-02-21 11:19:51 | inventory-service | ERROR | Out of memory
+2026-02-18 04:12:51 | web-server | ERROR | Request completed successfully
+2026-02-23 04:30:51 | payment-service | INFO | Disk space low
+2026-02-23 02:47:51 | inventory-service | ERROR | Service restarted
+2026-02-19 14:25:51 | payment-service | WARN | Database connection timeout
+2026-02-20 03:26:51 | api-gateway | WARN | Disk space low
+2026-02-23 08:48:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-22 06:46:51 | web-server | INFO | Service restarted
+2026-02-20 21:16:51 | api-gateway | INFO | Out of memory
+2026-02-23 05:25:51 | payment-service | WARN | Disk space low
+2026-02-20 22:58:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-17 11:11:51 | payment-service | ERROR | Request completed successfully
+2026-02-18 11:07:51 | web-server | INFO | Service restarted
+2026-02-21 04:50:51 | api-gateway | INFO | Request completed successfully
+2026-02-19 19:24:51 | web-server | INFO | Failed to connect to redis
+2026-02-22 19:46:51 | payment-service | INFO | Slow query detected (5.2s)
+2026-02-18 20:33:51 | web-server | INFO | Disk space low
+2026-02-22 15:08:51 | inventory-service | INFO | Database connection timeout
+2026-02-18 21:19:51 | payment-service | INFO | Slow query detected (5.2s)
+2026-02-22 04:21:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-17 18:17:51 | api-gateway | INFO | Request completed successfully
+2026-02-19 13:36:51 | inventory-service | WARN | Database connection timeout
+2026-02-21 03:13:51 | inventory-service | INFO | Request completed successfully
+2026-02-21 13:14:51 | web-server | INFO | Disk space low
+2026-02-18 22:48:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-20 17:22:51 | payment-service | INFO | CPU usage at 95%
+2026-02-16 18:15:51 | payment-service | INFO | Request completed successfully
+2026-02-18 07:11:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-19 11:23:51 | api-gateway | INFO | Out of memory
+2026-02-20 11:45:51 | inventory-service | INFO | Service restarted
+2026-02-19 03:27:51 | web-server | INFO | Service restarted
+2026-02-20 22:27:51 | api-gateway | WARN | Database connection timeout
+2026-02-21 05:05:51 | web-server | WARN | Disk space low
+2026-02-20 07:31:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-22 12:00:51 | web-server | INFO | Slow query detected (5.2s)
+2026-02-19 09:21:51 | inventory-service | INFO | Slow query detected (5.2s)
+2026-02-17 10:49:51 | api-gateway | INFO | CPU usage at 95%
+2026-02-21 11:23:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-21 22:20:51 | payment-service | INFO | CPU usage at 95%
+2026-02-17 22:50:51 | payment-service | ERROR | CPU usage at 95%
+2026-02-19 01:23:51 | web-server | INFO | Database connection timeout
+2026-02-17 05:54:51 | payment-service | INFO | Failed to connect to redis
+2026-02-19 09:46:51 | inventory-service | WARN | Request completed successfully
+2026-02-19 06:15:51 | payment-service | ERROR | Out of memory
+2026-02-22 07:11:51 | web-server | INFO | Request completed successfully
+2026-02-16 21:10:51 | inventory-service | ERROR | Slow query detected (5.2s)
+2026-02-22 19:50:51 | payment-service | INFO | Failed to connect to redis
+2026-02-17 13:00:51 | api-gateway | INFO | Request completed successfully
+2026-02-20 17:08:51 | inventory-service | WARN | Disk space low
+2026-02-21 19:39:51 | web-server | INFO | Disk space low
+2026-02-17 23:25:51 | web-server | INFO | CPU usage at 95%
+2026-02-19 13:38:51 | payment-service | INFO | CPU usage at 95%
+2026-02-19 13:50:51 | web-server | WARN | Service restarted
+2026-02-20 13:29:51 | payment-service | WARN | Service restarted
+2026-02-21 06:12:51 | web-server | ERROR | Out of memory
+2026-02-18 09:39:51 | web-server | INFO | Database connection timeout
+2026-02-17 16:55:51 | inventory-service | INFO | Slow query detected (5.2s)
+2026-02-17 16:28:51 | inventory-service | INFO | Service restarted
+2026-02-23 04:56:51 | web-server | INFO | Disk space low
+2026-02-19 22:01:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-18 11:34:51 | api-gateway | WARN | Request completed successfully
+2026-02-21 07:33:51 | inventory-service | INFO | Slow query detected (5.2s)
+2026-02-17 02:00:51 | web-server | ERROR | Failed to connect to redis
+2026-02-19 04:05:51 | api-gateway | INFO | Out of memory
+2026-02-22 02:04:51 | web-server | INFO | Service restarted
+2026-02-18 22:47:51 | inventory-service | INFO | Database connection timeout
+2026-02-19 03:17:51 | payment-service | INFO | Out of memory
+2026-02-21 17:34:51 | api-gateway | ERROR | Request completed successfully
+2026-02-17 03:59:51 | inventory-service | INFO | Service restarted
+2026-02-18 22:11:51 | web-server | INFO | CPU usage at 95%
+2026-02-23 00:17:51 | api-gateway | INFO | Out of memory
+2026-02-19 03:34:51 | payment-service | WARN | Database connection timeout
+2026-02-17 05:43:51 | inventory-service | INFO | Request completed successfully
+2026-02-20 03:31:51 | payment-service | INFO | Disk space low
+2026-02-17 22:09:51 | web-server | INFO | Slow query detected (5.2s)
+2026-02-19 23:17:51 | payment-service | INFO | Out of memory
+2026-02-22 17:30:51 | inventory-service | WARN | Out of memory
+2026-02-17 01:11:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-18 14:30:51 | payment-service | WARN | Slow query detected (5.2s)
+2026-02-18 09:12:51 | web-server | INFO | Out of memory
+2026-02-22 18:18:51 | payment-service | WARN | CPU usage at 95%
+2026-02-22 06:35:51 | web-server | WARN | Slow query detected (5.2s)
+2026-02-21 19:50:51 | inventory-service | INFO | Slow query detected (5.2s)
+2026-02-22 15:39:51 | payment-service | ERROR | Slow query detected (5.2s)
+2026-02-20 20:56:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-22 10:38:51 | web-server | INFO | Slow query detected (5.2s)
+2026-02-19 12:32:51 | api-gateway | INFO | Out of memory
+2026-02-18 11:50:51 | web-server | INFO | CPU usage at 95%
+2026-02-20 09:38:51 | api-gateway | INFO | Database connection timeout
+2026-02-22 12:28:51 | payment-service | INFO | Request completed successfully
+2026-02-18 10:55:51 | web-server | WARN | Failed to connect to redis
+2026-02-22 05:37:51 | web-server | INFO | Slow query detected (5.2s)
+2026-02-17 15:30:51 | web-server | WARN | Database connection timeout
+2026-02-23 14:23:51 | web-server | INFO | Slow query detected (5.2s)
+2026-02-22 13:03:51 | payment-service | INFO | Service restarted
+2026-02-23 10:28:51 | api-gateway | INFO | Service restarted
+2026-02-18 07:52:51 | api-gateway | INFO | CPU usage at 95%
+2026-02-18 22:36:51 | api-gateway | INFO | Disk space low
+2026-02-22 08:31:51 | web-server | INFO | Request completed successfully
+2026-02-21 11:00:51 | inventory-service | INFO | Request completed successfully
+2026-02-17 04:28:51 | api-gateway | ERROR | Failed to connect to redis
+2026-02-21 07:24:51 | api-gateway | INFO | Disk space low
+2026-02-18 08:40:51 | web-server | WARN | Service restarted
+2026-02-20 19:39:51 | payment-service | INFO | Slow query detected (5.2s)
+2026-02-20 02:54:51 | web-server | WARN | Database connection timeout
+2026-02-19 12:55:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-21 21:25:51 | inventory-service | WARN | Out of memory
+2026-02-20 21:03:51 | web-server | ERROR | Service restarted
+2026-02-18 00:31:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-20 23:53:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-19 11:42:51 | api-gateway | INFO | Disk space low
+2026-02-19 03:29:51 | web-server | INFO | Disk space low
+2026-02-17 09:10:51 | inventory-service | INFO | Out of memory
+2026-02-17 17:58:51 | inventory-service | WARN | Failed to connect to redis
+2026-02-19 08:06:51 | inventory-service | INFO | Service restarted
+2026-02-17 01:23:51 | inventory-service | INFO | Slow query detected (5.2s)
+2026-02-22 14:54:51 | web-server | INFO | Disk space low
+2026-02-16 19:06:51 | web-server | WARN | Database connection timeout
+2026-02-23 09:20:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-21 20:30:51 | api-gateway | WARN | Database connection timeout
+2026-02-19 16:34:51 | inventory-service | INFO | Disk space low
+2026-02-22 04:35:51 | web-server | ERROR | Disk space low
+2026-02-20 12:32:51 | api-gateway | INFO | Request completed successfully
+2026-02-22 16:59:51 | payment-service | INFO | Service restarted
+2026-02-21 11:23:51 | inventory-service | INFO | Database connection timeout
+2026-02-21 17:51:51 | inventory-service | INFO | Out of memory
+2026-02-17 12:20:51 | payment-service | INFO | Disk space low
+2026-02-17 08:36:51 | payment-service | INFO | Disk space low
+2026-02-16 19:29:51 | web-server | INFO | Slow query detected (5.2s)
+2026-02-20 23:45:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-17 14:06:51 | web-server | INFO | Slow query detected (5.2s)
+2026-02-20 14:49:51 | payment-service | INFO | Out of memory
+2026-02-17 01:53:51 | web-server | INFO | Slow query detected (5.2s)
+2026-02-16 22:39:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-22 01:40:51 | web-server | INFO | Database connection timeout
+2026-02-17 00:46:51 | payment-service | INFO | Service restarted
+2026-02-17 19:21:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-23 16:22:51 | web-server | INFO | Failed to connect to redis
+2026-02-20 03:30:51 | payment-service | WARN | Slow query detected (5.2s)
+2026-02-23 10:58:51 | api-gateway | WARN | Slow query detected (5.2s)
+2026-02-22 18:57:51 | api-gateway | INFO | Disk space low
+2026-02-21 20:49:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-18 20:19:51 | api-gateway | INFO | Request completed successfully
+2026-02-19 13:44:51 | inventory-service | INFO | Disk space low
+2026-02-21 22:21:51 | inventory-service | ERROR | Out of memory
+2026-02-20 02:06:51 | payment-service | INFO | Service restarted
+2026-02-23 13:29:51 | web-server | WARN | Out of memory
+2026-02-23 17:41:51 | api-gateway | INFO | Out of memory
+2026-02-21 00:19:51 | payment-service | ERROR | Request completed successfully
+2026-02-18 21:32:51 | inventory-service | INFO | Database connection timeout
+2026-02-21 16:56:51 | web-server | WARN | Disk space low
+2026-02-20 20:13:51 | web-server | INFO | Slow query detected (5.2s)
+2026-02-23 09:58:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-19 05:15:51 | payment-service | INFO | Database connection timeout
+2026-02-23 12:46:51 | api-gateway | ERROR | Request completed successfully
+2026-02-19 09:19:51 | inventory-service | INFO | Database connection timeout
+2026-02-19 14:58:51 | payment-service | INFO | Request completed successfully
+2026-02-19 14:58:51 | api-gateway | ERROR | Failed to connect to redis
+2026-02-22 10:22:51 | payment-service | INFO | CPU usage at 95%
+2026-02-20 05:03:51 | web-server | WARN | Disk space low
+2026-02-21 19:32:51 | web-server | WARN | CPU usage at 95%
+2026-02-19 19:00:51 | web-server | INFO | Request completed successfully
+2026-02-21 11:25:51 | inventory-service | INFO | Database connection timeout
+2026-02-19 18:19:51 | api-gateway | INFO | Disk space low
+2026-02-21 07:37:51 | api-gateway | WARN | Request completed successfully
+2026-02-22 19:05:51 | inventory-service | WARN | Slow query detected (5.2s)
+2026-02-22 03:58:51 | web-server | INFO | CPU usage at 95%
+2026-02-19 13:05:51 | inventory-service | ERROR | CPU usage at 95%
+2026-02-18 06:02:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-23 01:17:51 | payment-service | WARN | Slow query detected (5.2s)
+2026-02-19 05:00:51 | api-gateway | INFO | Database connection timeout
+2026-02-21 00:08:51 | inventory-service | INFO | Request completed successfully
+2026-02-17 21:16:51 | web-server | INFO | Disk space low
+2026-02-21 08:05:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-17 21:52:51 | web-server | INFO | Disk space low
+2026-02-21 19:44:51 | payment-service | INFO | CPU usage at 95%
+2026-02-21 07:19:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-23 14:52:51 | web-server | WARN | Database connection timeout
+2026-02-19 22:44:51 | api-gateway | ERROR | Slow query detected (5.2s)
+2026-02-23 01:44:51 | inventory-service | WARN | CPU usage at 95%
+2026-02-22 16:27:51 | web-server | INFO | Request completed successfully
+2026-02-22 05:49:51 | inventory-service | INFO | Disk space low
+2026-02-21 21:42:51 | api-gateway | WARN | Database connection timeout
+2026-02-19 13:20:51 | inventory-service | INFO | Request completed successfully
+2026-02-22 19:41:51 | inventory-service | ERROR | Service restarted
+2026-02-23 04:16:51 | web-server | INFO | CPU usage at 95%
+2026-02-21 03:01:51 | payment-service | WARN | Disk space low
+2026-02-21 05:00:51 | api-gateway | WARN | Service restarted
+2026-02-16 23:41:51 | api-gateway | INFO | Out of memory
+2026-02-19 12:38:51 | web-server | INFO | Database connection timeout
+2026-02-17 12:29:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-21 19:38:51 | web-server | WARN | Disk space low
+2026-02-21 03:50:51 | web-server | WARN | Out of memory
+2026-02-23 13:01:51 | api-gateway | INFO | Database connection timeout
+2026-02-18 09:33:51 | web-server | INFO | Disk space low
+2026-02-21 03:00:51 | payment-service | INFO | Failed to connect to redis
+2026-02-17 11:05:51 | inventory-service | INFO | Database connection timeout
+2026-02-19 12:53:51 | api-gateway | INFO | Service restarted
+2026-02-19 11:44:51 | payment-service | INFO | Slow query detected (5.2s)
+2026-02-20 05:08:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-18 06:11:51 | inventory-service | INFO | Slow query detected (5.2s)
+2026-02-22 14:44:51 | payment-service | INFO | Request completed successfully
+2026-02-20 05:33:51 | inventory-service | WARN | Request completed successfully
+2026-02-20 03:32:51 | inventory-service | INFO | Out of memory
+2026-02-19 04:52:51 | payment-service | INFO | Failed to connect to redis
+2026-02-22 23:45:51 | api-gateway | ERROR | CPU usage at 95%
+2026-02-20 07:12:51 | web-server | ERROR | Request completed successfully
+2026-02-22 06:16:51 | payment-service | INFO | Request completed successfully
+2026-02-20 01:18:51 | inventory-service | WARN | Out of memory
+2026-02-22 09:25:51 | inventory-service | WARN | Disk space low
+2026-02-23 10:19:51 | inventory-service | INFO | Request completed successfully
+2026-02-19 04:35:51 | payment-service | ERROR | Out of memory
+2026-02-19 17:18:51 | api-gateway | INFO | Disk space low
+2026-02-17 11:35:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-19 10:47:51 | payment-service | ERROR | Failed to connect to redis
+2026-02-17 02:01:51 | web-server | INFO | Failed to connect to redis
+2026-02-18 22:10:51 | web-server | WARN | Slow query detected (5.2s)
+2026-02-22 17:25:51 | inventory-service | INFO | Database connection timeout
+2026-02-19 00:12:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-21 18:24:51 | payment-service | INFO | Disk space low
+2026-02-20 21:01:51 | inventory-service | WARN | Database connection timeout
+2026-02-22 09:29:51 | api-gateway | WARN | Out of memory
+2026-02-18 12:35:51 | inventory-service | INFO | Out of memory
+2026-02-21 12:15:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-22 22:19:51 | web-server | INFO | Failed to connect to redis
+2026-02-21 15:01:51 | api-gateway | WARN | Service restarted
+2026-02-22 06:41:51 | web-server | INFO | Failed to connect to redis
+2026-02-23 00:12:51 | payment-service | INFO | Service restarted
+2026-02-17 08:50:51 | inventory-service | INFO | Disk space low
+2026-02-22 04:50:51 | payment-service | INFO | Database connection timeout
+2026-02-20 23:38:51 | web-server | INFO | Database connection timeout
+2026-02-18 13:02:51 | payment-service | INFO | Out of memory
+2026-02-21 13:05:51 | api-gateway | WARN | Service restarted
+2026-02-20 12:30:51 | web-server | INFO | Database connection timeout
+2026-02-21 20:44:51 | payment-service | INFO | CPU usage at 95%
+2026-02-19 07:15:51 | web-server | WARN | Out of memory
+2026-02-17 09:19:51 | payment-service | INFO | Slow query detected (5.2s)
+2026-02-18 02:22:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-19 13:08:51 | payment-service | WARN | Request completed successfully
+2026-02-21 08:07:51 | web-server | INFO | Service restarted
+2026-02-19 22:29:51 | payment-service | ERROR | Service restarted
+2026-02-20 03:30:51 | inventory-service | WARN | CPU usage at 95%
+2026-02-22 07:12:51 | api-gateway | INFO | Database connection timeout
+2026-02-20 21:49:51 | payment-service | INFO | CPU usage at 95%
+2026-02-17 01:05:51 | web-server | ERROR | CPU usage at 95%
+2026-02-19 05:52:51 | api-gateway | INFO | Database connection timeout
+2026-02-23 13:35:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-18 13:46:51 | api-gateway | WARN | Request completed successfully
+2026-02-16 20:00:51 | payment-service | WARN | Service restarted
+2026-02-19 05:19:51 | web-server | WARN | Failed to connect to redis
+2026-02-21 08:21:51 | web-server | WARN | Slow query detected (5.2s)
+2026-02-17 12:26:51 | inventory-service | INFO | Out of memory
+2026-02-20 11:54:51 | api-gateway | INFO | Database connection timeout
+2026-02-18 22:37:51 | web-server | INFO | Failed to connect to redis
+2026-02-16 18:15:51 | inventory-service | ERROR | Service restarted
+2026-02-18 15:50:51 | web-server | INFO | CPU usage at 95%
+2026-02-23 07:59:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-20 16:39:51 | inventory-service | WARN | Request completed successfully
+2026-02-22 15:53:51 | web-server | INFO | Database connection timeout
+2026-02-20 14:09:51 | web-server | ERROR | Failed to connect to redis
+2026-02-17 19:14:51 | payment-service | INFO | Service restarted
+2026-02-20 21:32:51 | web-server | ERROR | CPU usage at 95%
+2026-02-19 05:11:51 | inventory-service | WARN | Service restarted
+2026-02-18 01:58:51 | api-gateway | INFO | Out of memory
+2026-02-17 21:44:51 | web-server | INFO | Out of memory
+2026-02-22 05:03:51 | inventory-service | WARN | CPU usage at 95%
+2026-02-21 12:25:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-19 12:53:51 | api-gateway | INFO | Request completed successfully
+2026-02-18 13:18:51 | inventory-service | WARN | CPU usage at 95%
+2026-02-17 10:57:51 | web-server | INFO | Disk space low
+2026-02-20 07:25:51 | payment-service | ERROR | Request completed successfully
+2026-02-18 09:55:51 | payment-service | INFO | Failed to connect to redis
+2026-02-23 11:40:51 | payment-service | INFO | Service restarted
+2026-02-23 06:01:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-20 03:45:51 | inventory-service | INFO | Disk space low
+2026-02-17 15:44:51 | web-server | INFO | Failed to connect to redis
+2026-02-20 08:03:51 | api-gateway | INFO | Service restarted
+2026-02-18 20:30:51 | web-server | WARN | Request completed successfully
+2026-02-21 23:16:51 | payment-service | ERROR | Service restarted
+2026-02-20 09:02:51 | web-server | INFO | Out of memory
+2026-02-20 04:28:51 | payment-service | INFO | Failed to connect to redis
+2026-02-22 04:29:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-16 19:46:51 | api-gateway | INFO | Disk space low
+2026-02-17 02:22:51 | web-server | INFO | Database connection timeout
+2026-02-19 11:14:51 | web-server | INFO | Disk space low
+2026-02-19 15:58:51 | api-gateway | WARN | Slow query detected (5.2s)
+2026-02-20 19:52:51 | payment-service | WARN | Disk space low
+2026-02-23 14:53:51 | web-server | INFO | Failed to connect to redis
+2026-02-21 19:41:51 | api-gateway | INFO | Disk space low
+2026-02-18 07:57:51 | api-gateway | INFO | Request completed successfully
+2026-02-18 14:38:51 | web-server | INFO | Service restarted
+2026-02-17 16:40:51 | payment-service | INFO | Request completed successfully
+2026-02-18 13:41:51 | payment-service | INFO | Disk space low
+2026-02-18 15:28:51 | web-server | INFO | Slow query detected (5.2s)
+2026-02-20 04:04:51 | payment-service | INFO | Out of memory
+2026-02-20 13:20:51 | api-gateway | WARN | Database connection timeout
+2026-02-18 22:25:51 | payment-service | INFO | Database connection timeout
+2026-02-20 21:33:51 | payment-service | INFO | Out of memory
+2026-02-20 06:45:51 | web-server | INFO | Service restarted
+2026-02-23 14:33:51 | inventory-service | ERROR | Disk space low
+2026-02-23 07:40:51 | api-gateway | INFO | Service restarted
+2026-02-18 06:43:51 | payment-service | INFO | Database connection timeout
+2026-02-17 05:18:51 | inventory-service | INFO | Service restarted
+2026-02-18 08:42:51 | inventory-service | INFO | Out of memory
+2026-02-17 04:35:51 | api-gateway | INFO | Service restarted
+2026-02-18 20:02:51 | api-gateway | INFO | Disk space low
+2026-02-22 02:00:51 | inventory-service | INFO | Request completed successfully
+2026-02-17 20:52:51 | inventory-service | INFO | Database connection timeout
+2026-02-20 17:34:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-23 05:29:51 | inventory-service | INFO | Database connection timeout
+2026-02-20 02:32:51 | inventory-service | WARN | Out of memory
+2026-02-21 19:37:51 | inventory-service | WARN | CPU usage at 95%
+2026-02-20 11:55:51 | api-gateway | INFO | Database connection timeout
+2026-02-23 15:21:51 | web-server | ERROR | Database connection timeout
+2026-02-20 18:31:51 | payment-service | ERROR | Request completed successfully
+2026-02-17 02:48:51 | api-gateway | INFO | CPU usage at 95%
+2026-02-18 06:07:51 | payment-service | ERROR | Slow query detected (5.2s)
+2026-02-23 11:10:51 | inventory-service | INFO | Service restarted
+2026-02-17 05:56:51 | api-gateway | WARN | Service restarted
+2026-02-16 19:50:51 | api-gateway | INFO | Out of memory
+2026-02-18 18:56:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-18 19:31:51 | api-gateway | INFO | Out of memory
+2026-02-17 11:50:51 | inventory-service | INFO | Database connection timeout
+2026-02-22 19:12:51 | web-server | WARN | Request completed successfully
+2026-02-23 07:27:51 | api-gateway | ERROR | CPU usage at 95%
+2026-02-20 21:42:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-17 13:02:51 | api-gateway | INFO | Service restarted
+2026-02-20 01:41:51 | api-gateway | INFO | CPU usage at 95%
+2026-02-21 09:30:51 | web-server | INFO | CPU usage at 95%
+2026-02-21 11:12:51 | payment-service | INFO | Database connection timeout
+2026-02-17 12:20:51 | payment-service | INFO | Database connection timeout
+2026-02-17 15:52:51 | api-gateway | INFO | Out of memory
+2026-02-17 05:27:51 | inventory-service | INFO | Disk space low
+2026-02-17 06:52:51 | inventory-service | INFO | Database connection timeout
+2026-02-19 14:31:51 | api-gateway | WARN | Failed to connect to redis
+2026-02-19 01:03:51 | payment-service | INFO | Disk space low
+2026-02-19 21:34:51 | inventory-service | WARN | Database connection timeout
+2026-02-19 18:58:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-16 19:50:51 | web-server | INFO | Database connection timeout
+2026-02-21 13:41:51 | web-server | ERROR | CPU usage at 95%
+2026-02-21 20:33:51 | web-server | INFO | Failed to connect to redis
+2026-02-22 17:09:51 | payment-service | INFO | Failed to connect to redis
+2026-02-22 10:04:51 | payment-service | ERROR | Slow query detected (5.2s)
+2026-02-23 13:42:51 | api-gateway | INFO | Request completed successfully
+2026-02-20 11:52:51 | api-gateway | INFO | Database connection timeout
+2026-02-20 21:47:51 | payment-service | INFO | Request completed successfully
+2026-02-18 07:25:51 | web-server | INFO | CPU usage at 95%
+2026-02-18 00:32:51 | inventory-service | WARN | CPU usage at 95%
+2026-02-23 12:47:51 | web-server | INFO | Failed to connect to redis
+2026-02-19 02:12:51 | inventory-service | INFO | Slow query detected (5.2s)
+2026-02-16 22:48:51 | inventory-service | INFO | Database connection timeout
+2026-02-22 02:03:51 | web-server | WARN | Out of memory
+2026-02-20 16:30:51 | web-server | ERROR | Failed to connect to redis
+2026-02-21 22:25:51 | inventory-service | INFO | Request completed successfully
+2026-02-20 07:40:51 | payment-service | INFO | Slow query detected (5.2s)
+2026-02-18 11:53:51 | api-gateway | WARN | Out of memory
+2026-02-23 11:00:51 | payment-service | INFO | Failed to connect to redis
+2026-02-18 19:38:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-20 06:56:51 | api-gateway | WARN | CPU usage at 95%
+2026-02-17 13:11:51 | payment-service | WARN | Database connection timeout
+2026-02-22 10:46:51 | web-server | WARN | Database connection timeout
+2026-02-18 18:12:51 | payment-service | WARN | CPU usage at 95%
+2026-02-23 03:30:51 | web-server | INFO | Failed to connect to redis
+2026-02-19 19:20:51 | api-gateway | INFO | CPU usage at 95%
+2026-02-18 10:58:51 | web-server | INFO | Slow query detected (5.2s)
+2026-02-18 08:23:51 | api-gateway | INFO | Database connection timeout
+2026-02-20 11:00:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-21 17:36:51 | web-server | WARN | Slow query detected (5.2s)
+2026-02-18 05:43:51 | inventory-service | INFO | Service restarted
+2026-02-20 20:15:51 | payment-service | INFO | Request completed successfully
+2026-02-23 02:54:51 | api-gateway | INFO | Service restarted
+2026-02-20 15:50:51 | payment-service | INFO | Failed to connect to redis
+2026-02-23 15:31:51 | inventory-service | INFO | Request completed successfully
+2026-02-22 06:26:51 | web-server | INFO | Failed to connect to redis
+2026-02-22 19:34:51 | inventory-service | INFO | Slow query detected (5.2s)
+2026-02-19 12:26:51 | web-server | ERROR | Out of memory
+2026-02-18 16:31:51 | web-server | WARN | Request completed successfully
+2026-02-19 03:25:51 | inventory-service | INFO | Request completed successfully
+2026-02-20 03:49:51 | inventory-service | INFO | Disk space low
+2026-02-20 12:05:51 | payment-service | INFO | Database connection timeout
+2026-02-21 21:22:51 | web-server | INFO | Service restarted
+2026-02-19 00:45:51 | api-gateway | WARN | Out of memory
+2026-02-17 12:20:51 | web-server | INFO | Disk space low
+2026-02-19 22:35:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-17 07:20:51 | web-server | ERROR | Database connection timeout
+2026-02-20 14:54:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-17 05:02:51 | web-server | INFO | Service restarted
+2026-02-19 15:19:51 | web-server | INFO | Out of memory
+2026-02-19 20:22:51 | api-gateway | WARN | Request completed successfully
+2026-02-20 04:39:51 | web-server | INFO | Service restarted
+2026-02-17 02:53:51 | web-server | INFO | Request completed successfully
+2026-02-22 00:32:51 | payment-service | INFO | Failed to connect to redis
+2026-02-20 03:17:51 | inventory-service | INFO | Database connection timeout
+2026-02-18 06:37:51 | payment-service | ERROR | Out of memory
+2026-02-17 14:00:51 | api-gateway | INFO | Service restarted
+2026-02-23 06:44:51 | api-gateway | INFO | CPU usage at 95%
+2026-02-17 02:49:51 | api-gateway | INFO | CPU usage at 95%
+2026-02-17 21:38:51 | web-server | INFO | Database connection timeout
+2026-02-20 15:54:51 | payment-service | INFO | Slow query detected (5.2s)
+2026-02-18 22:22:51 | web-server | ERROR | Service restarted
+2026-02-18 17:10:51 | api-gateway | ERROR | Service restarted
+2026-02-19 00:38:51 | payment-service | INFO | CPU usage at 95%
+2026-02-22 18:23:51 | api-gateway | INFO | Database connection timeout
+2026-02-21 22:25:51 | api-gateway | INFO | Service restarted
+2026-02-17 02:18:51 | payment-service | INFO | Failed to connect to redis
+2026-02-21 10:04:51 | api-gateway | INFO | Out of memory
+2026-02-20 12:44:51 | inventory-service | INFO | Request completed successfully
+2026-02-23 14:10:51 | payment-service | INFO | CPU usage at 95%
+2026-02-17 21:01:51 | payment-service | INFO | Service restarted
+2026-02-21 14:29:51 | inventory-service | ERROR | Disk space low
+2026-02-23 14:15:51 | inventory-service | INFO | Disk space low
+2026-02-17 00:41:51 | web-server | WARN | CPU usage at 95%
+2026-02-17 16:19:51 | api-gateway | INFO | Request completed successfully
+2026-02-23 01:56:51 | api-gateway | WARN | Database connection timeout
+2026-02-16 21:46:51 | inventory-service | INFO | Disk space low
+2026-02-22 16:19:51 | api-gateway | INFO | Request completed successfully
+2026-02-18 14:02:51 | payment-service | WARN | Failed to connect to redis
+2026-02-18 04:50:51 | payment-service | INFO | Slow query detected (5.2s)
+2026-02-19 03:32:51 | payment-service | WARN | CPU usage at 95%
+2026-02-18 10:00:51 | web-server | ERROR | Database connection timeout
+2026-02-18 06:03:51 | inventory-service | INFO | Disk space low
+2026-02-19 02:25:51 | inventory-service | INFO | Failed to connect to redis
+2026-02-18 22:53:51 | web-server | INFO | Out of memory
+2026-02-21 07:48:51 | payment-service | INFO | Request completed successfully
+2026-02-21 10:45:51 | api-gateway | INFO | Slow query detected (5.2s)
+2026-02-17 20:05:51 | inventory-service | ERROR | Request completed successfully
+2026-02-22 18:08:51 | inventory-service | WARN | Disk space low
+2026-02-21 12:16:51 | inventory-service | INFO | CPU usage at 95%
+2026-02-17 01:07:51 | api-gateway | INFO | Database connection timeout
+2026-02-22 15:15:51 | payment-service | INFO | Slow query detected (5.2s)
+2026-02-21 23:22:51 | api-gateway | INFO | Failed to connect to redis
+2026-02-17 20:17:51 | payment-service | WARN | Out of memory
+2026-02-18 17:59:51 | payment-service | WARN | Request completed successfully
+2026-02-18 07:03:51 | api-gateway | INFO | CPU usage at 95%
+2026-02-20 15:49:51 | web-server | INFO | Out of memory
+2026-02-22 04:53:51 | inventory-service | INFO | Request completed successfully
+2026-02-18 04:21:51 | inventory-service | ERROR | CPU usage at 95%
+2026-02-23 09:21:51 | payment-service | INFO | Failed to connect to redis
+2026-02-21 04:59:51 | inventory-service | INFO | Disk space low

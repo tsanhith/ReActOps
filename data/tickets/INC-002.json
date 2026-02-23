@@ -1,0 +1,7 @@
+{
+  "id": "INC-002",
+  "title": "High CPU on web servers",
+  "date": "2025-01-22",
+  "description": "CPU spiked to 98% on two web servers. Top showed many php-fpm processes.",
+  "resolution": "Tuned php-fpm pm settings and added another server to the pool."
+}

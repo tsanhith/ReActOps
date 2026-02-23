@@ -1,0 +1,7 @@
+{
+  "id": "INC-001",
+  "title": "Payment service database timeout",
+  "date": "2025-01-10",
+  "description": "At 10:15 UTC, payment service became unresponsive. Logs showed connection pool exhaustion.",
+  "resolution": "Increased max connections from 100 to 200."
+}

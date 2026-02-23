@@ -1,0 +1,7 @@
+{
+  "id": "INC-003",
+  "title": "API gateway timeout after deploy",
+  "date": "2025-02-05",
+  "description": "After deploying new version, API gateway returned 504 for 10 minutes.",
+  "resolution": "Rolled back deployment; issue was due to misconfigured timeout in code."
+}
