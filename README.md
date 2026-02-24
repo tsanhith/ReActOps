@@ -4,14 +4,14 @@ An intelligent IT operations assistant that uses a **ReAct (Reason+Act) loop**, 
 
 ## Features
 
-- 🔍 **BM25 retrieval** over runbooks, logs, and past tickets
-- 🤖 **ReAct agent** with tool calling (search_runbooks, query_logs, search_tickets)
-- ✅ **Validation** of runbook freshness (coming soon)
-- 🔄 **Self-reflection** to improve answers (coming soon)
-- 📊 **RAGAS evaluation** for answer quality (coming soon)
-- 🛡️ **Safe stopping** to prevent infinite loops
-- 🚀 **FastAPI backend** with `/ask` and `/health` endpoints
-- 🧪 **Unit and integration tests**
+- 🔍 **BM25 retrieval** over runbooks, logs, and past tickets.
+- 🤖 **ReAct agent** with tool calling (search_runbooks, query_logs, search_tickets).
+- ✅ **Validation** of runbook freshness (coming soon).
+- 🔄 **Self-reflection** to improve answers (coming soon).
+- 📊 **RAGAS evaluation** for answer quality (coming soon).
+- 🛡️ **Safe stopping** to prevent infinite loops.
+- 🚀 **FastAPI backend** with `/ask` and `/health` endpoints.
+- 🧪 **Unit and integration tests**.
 
 ## Tech Stack
 
