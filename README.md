@@ -24,10 +24,10 @@ An intelligent IT operations assistant that uses a **ReAct (Reason+Act) loop**, 
 ## Getting Started
 
 1. Clone the repository
-2. Create a virtual environment: `python -m venv venv`
-3. Activate it: `venv\Scripts\activate` (Windows) or `source venv/bin/activate` (Mac/Linux)
-4. Install dependencies: `pip install -r requirements.txt`
-5. Generate mock data: `python generate_mock_data.py`
-6. Set up your Groq API key in `.env` (see `.env.example`)
-7. Run the server: `uvicorn reactops.main:app --reload`
-8. Visit `http://localhost:8000/docs` to test the API
+2. Create a virtual environment: `python -m venv venv`.
+3. Activate it: `venv\Scripts\activate` (Windows) or `source venv/bin/activate` (Mac/Linux).
+4. Install dependencies: `pip install -r requirements.txt`.
+5. Generate mock data: `python generate_mock_data.py`.
+6. Set up your Groq API key in `.env` (see `.env.example`).
+7. Run the server: `uvicorn reactops.main:app --reload`.
+8. Visit `http://localhost:8000/docs` to test the API.
