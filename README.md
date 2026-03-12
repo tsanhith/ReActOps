@@ -15,11 +15,11 @@ An intelligent IT operations assistant that uses a **ReAct (Reason+Act) loop**, 
 
 ## Tech Stack
 
-- Python, FastAPI, Uvicorn
-- Groq API (OpenAI-compatible)
-- BM25 (rank_bm25)
-- Pytest for testing
-- Docker (optional, for deployment)
+- Python, FastAPI, Uvicorn. 
+- Groq API (OpenAI-compatible). 
+- BM25 (rank_bm25). 
+- Pytest for testing. 
+- Docker (optional, for deployment). 
 
 ## Getting Started
 
